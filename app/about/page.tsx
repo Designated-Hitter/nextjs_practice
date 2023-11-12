@@ -1,7 +1,9 @@
+import NavBar from '../../components/NavBar';
 export default function About() {
     return (
         <div>
-            <h4>감자감자</h4>
+            <NavBar />
+            <h1>감자감자</h1>
         </div>
     )
 }
