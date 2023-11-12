@@ -20,3 +20,4 @@ export default function RootLayout({
     </html>
   )
 }
+//헤더, 상단바 등등 여러 페이지가 공유하는 내용들을 담으면 좋다.
